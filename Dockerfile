@@ -16,7 +16,7 @@ RUN pip install -r requirements.txt
 
 # Expone el puerto en el que corrér la aplicación
 
-EXPOSE 5000
+EXPOSE 3000
 
 
 # Comando para ejecutar la aplicación
